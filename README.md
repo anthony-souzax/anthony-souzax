@@ -6,4 +6,3 @@
 
 ![cool-fun](https://github.com/anthony-souzax/anthony-souzax/assets/170426300/51a2ce25-c478-444e-adfa-1a86c9da16b7)
 
-<input type="time">
